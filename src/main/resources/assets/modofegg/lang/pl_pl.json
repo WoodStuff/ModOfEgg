@@ -1,0 +1,11 @@
+{
+	"item.modofegg.fragment": "Fragment",
+	"item.modofegg.basic_matter": "Prosta Materia",
+
+	"block.modofegg.fragment_block": "Klocek Fragmentu",
+	"block.modofegg.tuffrock": "Trójkamyk",
+	"block.modofegg.shadowstone": "Ciemnykamyk",
+
+	"itemGroup.modofegg.earlygame": "Pierwsze Rzeczy",
+	"itemGroup.modofegg.mining": "Górnictwo"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modofegg:basic_matter"
+    }
+  ],
+  "result": {
+    "item": "modofegg:fragment",
+    "count": 9
+  }
+}

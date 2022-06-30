@@ -1,0 +1,11 @@
+{
+	"item.modofegg.fragment": "Fragment",
+	"item.modofegg.basic_matter": "Basic Matter",
+
+	"block.modofegg.fragment_block": "Fragment Block",
+	"block.modofegg.tuffrock": "Tuffrock",
+	"block.modofegg.shadowstone": "Shadowstone",
+
+	"itemGroup.modofegg.earlygame": "Early Game",
+	"itemGroup.modofegg.mining": "Mining"
+}
